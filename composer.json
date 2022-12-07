@@ -1,5 +1,5 @@
 {
-  "name": "ellera/yii2-backup",
+  "name": "ivan9455/yii2-backup",
   "type": "yii2-extension",
 
   "description": "Console backup for yii2 applications ",
@@ -11,8 +11,8 @@
   },
   "authors": [
     {
-      "name": "Jørgen Ellingsen",
-      "email": "jorgen@ellera.no"
+      "name": "Jørgen Ellingsen Paderin Ivan",
+      "email": "jorgen@ellera.no Paderin Ivan"
     }
   ],
 
